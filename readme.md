@@ -1,4 +1,4 @@
-# Cities API
+# Brazil State & Cities API
 
 Aula mestrada por Andre Gomes
 https://github.com/andrelugomes/digital-innovation-one/tree/master/cities-api
